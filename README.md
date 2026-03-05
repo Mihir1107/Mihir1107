@@ -63,7 +63,7 @@ Personal implementations of core data structures in C — built as a learning re
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mihir%20Mandavia-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mihirmandavia)
-[![Email](https://img.shields.io/badge/Email-mihirmandavia%40gmail.com-red?style=flat&logo=gmail)](mailto:mihirmandavia7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mihirmandavia7%40gmail.com-red?style=flat&logo=gmail)](mailto:mihirmandavia7@gmail.com)
 
 ---
 
