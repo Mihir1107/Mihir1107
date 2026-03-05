@@ -2,7 +2,7 @@
 
 🧠 **LLM & AI Enthusiast** | Full-Stack Developer | Builder of Useful Things
 
-I'm a BTech Computer Science & Engineering student (6th sem) from India, deeply interested in **Large Language Models** and how they can be applied to solve real problems. I started as a full-stack developer and I'm now going deeper into the AI/ML side — blending engineering instincts with a growing understanding of modern AI. Long-term goal: M.Tech CSE at **IIT Bombay**.
+I'm a BTech Computer Science & Engineering student (6th sem) from India, deeply interested in **Large Language Models** and how they can be applied to solve real problems. I started as a full-stack developer and I'm now going deeper into the AI/ML side — blending engineering instincts with a growing understanding of modern AI.
 
 ---
 
